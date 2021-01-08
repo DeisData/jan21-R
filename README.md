@@ -10,9 +10,7 @@ This workshop is not recorded.
 
 # Before the First Session:
 
-# Lesson 1
-
-
-# Resources
-
-
+*Get the Data for Lessons*
+- Make a new folder in your Desktop called `r-novice-inflammation`.
+- Download [r-novice-inflammation-data.zip](https://github.com/DeisData/jan21-R/blob/main/r-novice-inflammation-data.zip) and move the file to this folder.
+- If it’s not unzipped yet, double-click on it to unzip it. You should end up with a new folder called data.
